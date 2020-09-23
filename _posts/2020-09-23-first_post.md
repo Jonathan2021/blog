@@ -1,4 +1,12 @@
-# Hello blog
+---
+toc: true
+layout: post
+description: A quick summary of what you may find here
+categories: [markdown]
+title: "Hello blog !"
+---
+
+## Why ?
 
 I created this blog after reading chapter 2 of [fastai's book](https://github.com/fastai/fastbook), teaching deep learning with a top down approach, where they recommended starting a blog.
 
