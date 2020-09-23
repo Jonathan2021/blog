@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jonathan-sands.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jonathan-sands.com/" rel="alternate" type="text/html" /><updated>2020-09-23T12:13:37-05:00</updated><id>https://jonathan-sands.com/feed.xml</id><title type="html">Jonathan Blog</title><subtitle>Track / organize my knowledge and share it with others</subtitle><entry><title type="html">Hello blog !</title><link href="https://jonathan-sands.com/markdown/2020/09/23/first_post.html" rel="alternate" type="text/html" title="Hello blog !" /><published>2020-09-23T00:00:00-05:00</published><updated>2020-09-23T00:00:00-05:00</updated><id>https://jonathan-sands.com/markdown/2020/09/23/first_post</id><content type="html" xml:base="https://jonathan-sands.com/markdown/2020/09/23/first_post.html">&lt;h2 id=&quot;why-&quot;&gt;Why ?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jonathan-sands.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jonathan-sands.com/" rel="alternate" type="text/html" /><updated>2020-09-23T13:45:40-05:00</updated><id>https://jonathan-sands.com/feed.xml</id><title type="html">Jonathan Blog</title><subtitle>Track / organize my knowledge and share it with others</subtitle><entry><title type="html">Hello blog !</title><link href="https://jonathan-sands.com/markdown/2020/09/23/first_post.html" rel="alternate" type="text/html" title="Hello blog !" /><published>2020-09-23T00:00:00-05:00</published><updated>2020-09-23T00:00:00-05:00</updated><id>https://jonathan-sands.com/markdown/2020/09/23/first_post</id><content type="html" xml:base="https://jonathan-sands.com/markdown/2020/09/23/first_post.html">&lt;h2 id=&quot;why-&quot;&gt;Why ?&lt;/h2&gt;
 
 &lt;p&gt;I created this blog after reading chapter 2 of &lt;a href=&quot;https://github.com/fastai/fastbook&quot;&gt;fastai’s book&lt;/a&gt;, teaching deep learning with a top down approach, where they recommended starting a blog.&lt;/p&gt;
 
@@ -66,7 +66,7 @@ It aims at classifying furniture from 3 different eras :&lt;/p&gt;
 &lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
 &lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
 &lt;h2 id=&quot;Content&quot;&gt;Content&lt;a class=&quot;anchor-link&quot; href=&quot;#Content&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This notebook will take you through my building and deployment process using the &lt;a href=&quot;https://docs.fast.ai/&quot;&gt;fastai library&lt;/a&gt;.
-&lt;strong&gt;If you don't care about this and just want to check out the final result, please head &lt;a href=&quot;https://mybinder.org/v2/gh/Jonathan2021/Louis_voila/master?filepath=%2Fvoila%2Frender%2FLouis_app.ipynb&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;strong&gt;If you don't care about this and just want to check out the final result, please head &lt;a href=&quot;https://mybinder.org/v2/gh/Jonathan2021/Louis_voila/master?urlpath=%2Fvoila%2Frender%2FLouis_app.ipynb&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
@@ -969,7 +969,7 @@ Voilà can transform you jupyter notebook into a simple working web app.
 Of course we aren't transforming this entire notebook but instead this one &lt;a href=&quot;https://github.com/Jonathan2021/Louis_voila&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We are deploying our app on &lt;a href=&quot;https://mybinder.org/&quot;&gt;Binder&lt;/a&gt;. Check out &lt;a href=&quot;https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder&quot;&gt;these documentations&lt;/a&gt; on how to use voilà with Binder.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;And TADAAAA! That's all it took !&lt;/strong&gt;
-Check out the working web app &lt;a href=&quot;https://mybinder.org/v2/gh/Jonathan2021/Louis_voila/master?filepath=%2Fvoila%2Frender%2FLouis_app.ipynb&quot;&gt;&lt;img src=&quot;https://mybinder.org/badge_logo.svg&quot; alt=&quot;Binder&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+Check out the working web app &lt;a href=&quot;https://mybinder.org/v2/gh/Jonathan2021/Louis_voila/master?urlpath=%2Fvoila%2Frender%2FLouis_app.ipynb&quot;&gt;&lt;img src=&quot;https://mybinder.org/badge_logo.svg&quot; alt=&quot;Binder&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
