@@ -5,18 +5,26 @@ image: images/logo.png
 ---
 # Welcome to my blog!
 
-## Before going any further, please read these few tips !
-> Tip: You can **annotate** and **highlight** content using [Hypothes.is](https://web.hypothes.is/), for youself and others to see !
+## **<span style="color:red">Before going any further</span>**, please read these few tips !
+{% include tip.html content='You can <strong>annotate</strong> and <strong>highlight</strong> content using <a href="https://web.hypothes.is/" target="_blank">Hypothes.is</a>, for youself and others to see !' %}
 
 ![]({{site.baseurl}}/images/Hypothesis.gif "Just as such")
 
-Below are my posts about a variety of subjects.
+**Below** are my posts about a variety of subjects.
 
-> Tip: If you are looking for a particular subject, click on **[Tags]({{site.baseurl}}/categories)** in the top menu bar !
+{% capture tags_tip %}
+If you are looking for a particular subject, click on <strong><a href="{{site.baseurl}}/categories">Tags</a></strong> in the top menu bar !
+{% endcapture %}
 
-> Important: Please let me know of any mistake, by commenting or annotating !
+{% include tip.html content=tags_tip %}
 
-> Note: If you wish, you can learn more about **[me](#)** or **[this blog](#)**.  :grin:
+{% include important.html content="Please let me know of any mistake, by commenting or annotating !" %}
+
+{% capture about_note %}
+If you wish, you can learn more about <strong><a href="{{site.baseurl}}/about">me</a></strong> or <strong><a href='#'>this blog</a></strong>  :grin:
+{% endcapture %}
+
+{% include note.html content=about_note %}
 
 ![]({{site.baseurl}}/images/enjoy.gif)
 
