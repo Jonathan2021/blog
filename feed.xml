@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jonathan-sands.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jonathan-sands.com/" rel="alternate" type="text/html" /><updated>2020-09-24T13:50:08-05:00</updated><id>https://jonathan-sands.com/feed.xml</id><title type="html">Jonathan Blog</title><subtitle>Track / organize my knowledge and share it with others</subtitle><entry><title type="html">Hello blog !</title><link href="https://jonathan-sands.com/markdown/2020/09/23/first_post.html" rel="alternate" type="text/html" title="Hello blog !" /><published>2020-09-23T00:00:00-05:00</published><updated>2020-09-23T00:00:00-05:00</updated><id>https://jonathan-sands.com/markdown/2020/09/23/first_post</id><content type="html" xml:base="https://jonathan-sands.com/markdown/2020/09/23/first_post.html">&lt;h2 id=&quot;why-&quot;&gt;Why ?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://jonathan-sands.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jonathan-sands.com/" rel="alternate" type="text/html" /><updated>2020-09-24T17:25:54-05:00</updated><id>https://jonathan-sands.com/feed.xml</id><title type="html">Jonathan Blog</title><subtitle>Track / organize my knowledge and share it with others</subtitle><entry><title type="html">Hello blog !</title><link href="https://jonathan-sands.com/markdown/2020/09/23/first_post.html" rel="alternate" type="text/html" title="Hello blog !" /><published>2020-09-23T00:00:00-05:00</published><updated>2020-09-23T00:00:00-05:00</updated><id>https://jonathan-sands.com/markdown/2020/09/23/first_post</id><content type="html" xml:base="https://jonathan-sands.com/markdown/2020/09/23/first_post.html">&lt;h2 id=&quot;why-&quot;&gt;Why ?&lt;/h2&gt;
 
 &lt;p&gt;I created this blog after reading chapter 2 of &lt;a href=&quot;https://github.com/fastai/fastbook&quot;&gt;fastai’s book&lt;/a&gt;, teaching deep learning with a top down approach, where they recommended starting a blog.&lt;/p&gt;
 
 &lt;div class=&quot;Toast&quot;&gt;
    &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;I really recommend checking their tutorials and courses, they are great&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;p&gt;I don’t expect any clear content to start with. This is also a way to help me learn and get things sorted out inside my head. But hey, if you are reading this, you may be in the same situation and can get to learn along with me ;).&lt;/p&gt;
@@ -1048,7 +1048,7 @@ Check out the working web app &lt;a href=&quot;https://mybinder.org/v2/gh/Jonath
 
 &lt;div class=&quot;Toast&quot;&gt;
    &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
