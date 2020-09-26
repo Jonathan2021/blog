@@ -4,32 +4,32 @@ title: About Me
 permalink: /about-me/
 ---
 
-**Hi !** My name is **Jonathan SANDS**, a french engineering student just starting my master's program in **AI**.
+**Hi !** My name is **Jonathan SANDS**, a french engineering student just starting a master's program in **AI**.
 If you want to **learn more about me** then you are in the right place !
 
 {% capture blog-about %}
-If you wan't to know more about the content of this blog, please refer to <a href="{{site.baseurl}}/about-blog">this page</a> instead ! :wink:
+If you want to know more about the content of this blog, please head <a href="{{site.baseurl}}/about-blog">here</a> instead ! :wink:
 {% endcapture %}
 
 {% include note.html content=blog-about %}
 
 ## Quick overview of myself
 
-- **2016:** **French Baccalauréat**, France's national highschool exam. (17.9 / 20 average in Science, 15.5/20 average accounting all subjects)
+- **2016:** **French Baccalauréat**, France's national highschool exam. (17.9/20 average in Science, 15.5/20 average accounting all subjects)
 
-- **2016-2019:** Studying at **[EPITA](https://www.epita.fr/)**, a french computer science and software engineering focused engineering school.
+- **2016-2019:** Studied at **[EPITA](https://www.epita.fr/)**, a french **computer science and software engineering** focused engineering school.
 
-- **2018:** During the first semester of 2018, I spent a **semester abroad** in Beijing at **[BJTU](http://en.njtu.edu.cn/)**, as part of an exchange agreement with my french school.
+- **2018:** I spent the first semester **abroad** in Beijing at **[BJTU](http://en.njtu.edu.cn/)**, as part of an exchange agreement with my french school.
 
-- **2019-now:** Studying at **[ESILV](https://www.esilv.fr/)**, another french engineering part of [Pôle Universitaire Léonard de Vinci](https://www.devinci.fr/) (a place with several schools).
-I did my **last year of undergraduate** here, and just joined the **master's program in AI and data science**.
+- **2019-now:** Studying at **[ESILV](https://www.esilv.fr/)**, another french engineering school part of the "[Pôle Universitaire Léonard de Vinci](https://www.devinci.fr/)" (a group of several schools).
+I did my **last year of undergraduate** here, and just joined its **master's degree program in AI and data science**.
 
-{% include info.html content="I transfered from EPITA to ESILV because EPITA was just coding brainlessly, whereas ESILV has a more scientific based approach I like better" %}
+{% include info.html content="I transfered from EPITA to ESILV because EPITA was mostly about coding brainlessly, whereas ESILV has a more scientific based approach I like better" %}
 
-- **2020:** During the first semester of 2020, I left for Romania to study for a **semester at [UBB](https://www.ubbcluj.ro/ro/)**, as part of an exchange program with my french school.
+- **2020:** During the first semester, I left for Romania to study at **[UBB](https://www.ubbcluj.ro/ro/)**, as part of an exchange program with my french school.
 
 {% capture sjtu %}
-I was supposed to study a master's program in <strong>Control Science and Engineering</strong> at <a href="http://en.sjtu.edu.cn/">SJTU</a> in Shanghai, as part of the <strong><a href="https://www.ji.sjtu.edu.cn/">UM-SJTU joint institute</a></strong>, starting 2020 for 2.5 years but I changed my mind because of the COVID-19 :cry:
+I was supposed to study a master's program in <strong>Control Science and Engineering</strong> at <a href="http://en.sjtu.edu.cn/">SJTU</a> in Shanghai, as part of the <strong><a href="https://www.ji.sjtu.edu.cn/">UM-SJTU joint institute</a></strong>, starting 2020 for 2.5 years but I changed my mind because of the COVID-19 virus :cry:
 {% endcapture %}
 
 {% include info.html content=sjtu %}
