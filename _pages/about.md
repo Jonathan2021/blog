@@ -5,7 +5,11 @@ permalink: /about-me/
 ---
 {% capture path %}{{site.baseurl}}/ressources/CV.pdf{% endcapture %}
 
+{% capture download_button %}
 {% include download.html text="Download CV" name="CV jonathan SANDS.pdf" file=path %}
+{% endcapture %}
+
+{% include important.html content=download_button %}
 
 **Hi !** My name is **Jonathan SANDS**, a french engineering student just starting a master's program in **AI**.
 If you want to **learn more about me** then you are in the right place !
