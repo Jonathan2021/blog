@@ -478,4 +478,9 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
+.my-btn-blue { background-color: DodgerBlue; border: none; color: white; padding: 12px 30px; cursor: pointer; font-size: 20px; }
+
+/* Darker background on mouse-over */
+.my-btn-blue:hover { background-color: RoyalBlue; }
+
 /*# sourceMappingURL=style.css.map */
