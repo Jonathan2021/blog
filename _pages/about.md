@@ -3,6 +3,9 @@ layout: page
 title: About Me
 permalink: /about-me/
 ---
+{% capture path %}{{site.baseurl}}/ressources/CV.pdf{% endcapture %}
+
+{% include download.html text="Download CV" name="CV jonathan SANDS.pdf" file=path %}
 
 **Hi !** My name is **Jonathan SANDS**, a french engineering student just starting a master's program in **AI**.
 If you want to **learn more about me** then you are in the right place !
