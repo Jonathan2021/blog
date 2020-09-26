@@ -1,7 +1,5 @@
 ---
-toc: true
 layout: page
-description: A quick summary of what you may find here
 title: "About this blog"
 permalink: /about-blog/
 ---

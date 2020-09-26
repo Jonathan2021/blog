@@ -18,6 +18,8 @@ group :jekyll_plugins do
   gem 'jekyll-octicons'
   gem 'jekyll-remote-theme'
   gem "jekyll-twitter-plugin"
+  gem 'jekyll-avatar'
+  gem "jekyll-youtube"
   gem 'jekyll-relative-links'
   gem 'jekyll-seo-tag'
   gem 'jekyll-toc'

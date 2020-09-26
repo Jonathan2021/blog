@@ -88,6 +88,8 @@ plugins:
   - jekyll-octicons
   - jekyll-toc
   - jekyll-twitter-plugin
+  - jekyll-youtube
+  - jekyll-avatar  
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-remote-theme
