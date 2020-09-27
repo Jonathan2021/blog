@@ -153,8 +153,9 @@ window.onload = wrap_img;
 <a class="anchor" href="#Context" aria-hidden="true"><span class="octicon octicon-link"></span></a>Context<a class="anchor-link" href="#Context"> </a>
 </h2>
 <p>This project was done after reading chapter 2 of <a href="https://github.com/fastai/fastbook">fastai's book</a>.
-It aims at classifying furniture from 3 different eras :</p>
+It aims at classifying furniture from 4 different eras :</p>
 <ul>
+<li>Louis XIII</li>
 <li>Louis XIV</li>
 <li>Louis XV</li>
 <li>Louis XVI</li>
@@ -183,7 +184,7 @@ It aims at classifying furniture from 3 different eras :</p>
 <a class="anchor" href="#Building-the-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building the dataset<a class="anchor-link" href="#Building-the-dataset"> </a>
 </h2>
 <p>To build the dataset, I used <a href="https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en">fatkun batch download image</a> chrome plugin. There are many other ways to scrap the web for images, but in my case it turns out typing <code>Louis XIV furniture</code> (or should I say <code>mobilier Louis XIV</code> in french since this is a french thing) on Google image gives me a bunch of furniture from all eras. I found at that <a href="https://www.pinterest.fr/">pinterest</a> has some pretty good collections of images (for example <a href="https://www.pinterest.fr/tracystoneart/mobilier-louis-xvi/">here</a> for Louis XIV styled furniture).
-It turns out this plugin makes it easy to go on a page then download <strong>every</strong> images from it, including trash (but you have the ability to remove it before downloading). I recommend you to go on every website/page you need to build your data before downloading, since the plugin detects duplicates (also avoiding the trash images time and time again).</p>
+It turns out this plugin makes it easy to go on a page then download <strong>every</strong> images from it, including trash (but you have the ability to remove it before downloading). I recommend you to go on every website/page you need to build your data before downloading, since the plugin detects duplicates (also avoiding the same trash images time and time again).</p>
 <p>I put each type of images in it's own folder as you can see.</p>
 
 </div>
