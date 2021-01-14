@@ -28,7 +28,7 @@
 
   
       ,"page1": {
-          "title": "About this blog",
+          "title": "❓About this blog",
           "content": "Why ? . I created this blog after reading chapter 2 of fastai’s book, teaching deep learning with a top down approach, where they recommended starting a blog. . . I really recommend checking their tutorials and courses, they are great I don’t expect any clear content to start with. This is also a way to help me learn and get things sorted out inside my head. But hey, if you are reading this, you may be in the same situation and can get to learn along with me :wink:. . Content to expect . This will be a list of what I think will appear on this blog in the future, based on what I am currently doing / learning and what I want to learn in the future. . Machine learning Deep learning | deep reinforcement learning | generative modeling | others | . | Some maths1 | Rambling about topics such as: Rocket Science and other science mystery things (sounds scary) | AI | Engineering and technology stuff | . | . I recently ordered my first math book and I intend to learn and understand math more deeply &#8617; . |",
           "url": "https://jonathan-sands.com/about-blog/",
           "relUrl": "/about-blog/",
@@ -39,7 +39,7 @@
 
   
       ,"page2": {
-          "title": "About Me",
+          "title": "👱About Me",
           "content": ". Important: Download CV Hi ! My name is Jonathan SANDS, a french engineering student just starting a master’s program in AI. If you want to learn more about me then you are in the right place ! . . Note: If you want to know more about the content of this blog, please head here instead ! :wink: Quick overview of myself . 2016: French Baccalauréat, France’s national highschool exam. (17.9/20 average in Science, 15.5/20 average accounting all subjects) . | 2016-2019: Studied at EPITA, a french computer science and software engineering focused engineering school. . | 2018: I spent the first semester abroad in Beijing at BJTU, as part of an exchange agreement with my french school. . | 2019-now: Studying at ESILV, another french engineering school part of the “Pôle Universitaire Léonard de Vinci” (a group of several schools). I did my last year of undergraduate here, and just joined its master’s degree program in AI and data science. . | . . I transfered from EPITA to ESILV because EPITA was mostly about coding brainlessly, whereas ESILV has a more scientific based approach I like better 2020: During the first semester, I left for Romania to study at UBB, as part of an exchange program with my french school. | . . I was supposed to study a master&#39;s program in Control Science and Engineering at SJTU in Shanghai, as part of the UM-SJTU joint institute, starting 2020 for 2.5 years but I changed my mind because of the COVID-19 virus :cry: Interests . Techie / Science stuff Computer science | Rocket Science | Math | Everything new and exciting ! | . | Life stuff Travelling abroad / experiencing new cultures | Sports (volleyball, calisthenics, climbing, running, anything really :grin:) | Any new experience ! | . | . Medias . . Tip: Click on the logos to get to my various profiles ! . . . . . . There was a &#39;Forbidden&#39; error fetching URL: &#39;https://twitter.com/JonathanSands14/status/1309793203407802370&#39; . . . . Don&#39;t expect to see much here",
           "url": "https://jonathan-sands.com/about-me/",
           "relUrl": "/about-me/",
