@@ -4,7 +4,7 @@ layout: post
 description: Difference between loss and metrics.
 categories: [metric, loss]
 title: Can I use a metric as a loss function?
-image: loss-vs-metric.png
+image: images/loss_vs_metric.png
 ---
 
 # What is a "loss" function?
