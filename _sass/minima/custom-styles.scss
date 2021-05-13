@@ -22,3 +22,14 @@
     background-color: RoyalBlue;
 }
 
+img.full-width {
+    display: block;
+    margin: 30px 0;
+    width: 100vw;
+    margin-left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
