@@ -49,7 +49,7 @@ I was supposed to study a master's program in <strong>Control Science and Engine
 	- Everything new and exciting !
 	
 - **Life stuff**
-	- Travelling abroad / experiencing new cultures
+	- Traveling abroad / experiencing new cultures
 	- Sports (volleyball, calisthenics, climbing, running, anything really :grin:)
 	- Any new experience !
 	
